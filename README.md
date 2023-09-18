@@ -25,6 +25,6 @@ I had to ensure that the model works on real life laser images not only on indiv
 
 ## Bottom Notes 
 
-Please note that you won't be able to run the code because of the size of the image data. However, I included some sample images just to give you an idea what I was working with. Already, I noticed places in this project that can be improved and I will be working on those impovements. Theres is also a secod part of this project that I'm currently working on. The second phase is to train a neural network to distinguish between good and bad lasers (as mentioned above looking for damages, scratches etc.)
+Please note that you won't be able to run the code because of the size of the image data. However, I included some sample images just to give you an idea what I was working with. Already, I noticed places in this project that can be improved and I will be working on those impovements. There is also a secod part of this project that I'm currently working on. The second phase is to train a neural network to distinguish between good and bad lasers (as mentioned above looking for damages, scratches etc.)
 
       
